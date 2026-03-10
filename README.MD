@@ -1,3 +1,9 @@
+> # [!IMPORTANT]
+> 这个是别人那里Fork原项目、然后我再Fork了Fork原项目的Fork从而Fork过来的，你也可以在这里找到其他更好的： https://github.com/Binaryify/NeteaseCloudMusicApi/forks?include=active&page=1&period=5y&sort_by=stargazer_counts
+
+然后这里有一个文档： https://goooler.github.io/NeteaseCloudMusicApi/#/
+来自于： https://github.com/Goooler/NeteaseCloudMusicApi
+
 # 网易云音乐 API
 
 网易云音乐 Node.js API service
